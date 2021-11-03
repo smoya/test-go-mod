@@ -1,2 +1,3 @@
 module github.com/smoya/test-go-mod
-go 1.12
+
+go 1.17
